@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Simran coding gif" />
